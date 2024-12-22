@@ -70,3 +70,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # Health-Care-DME-laravel
 # Health-Care-DME-laravel
 # Health-Care-DME-laravel
+
+## Vendor folder link is here 
+(https://www.mediafire.com/file/3h0c1zn5p034wfb/vendor.zip/file) 
